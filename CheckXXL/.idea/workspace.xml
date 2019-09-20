@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ec99afb-6321-43b1-9f5a-5a391f4ebdf2" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Q8W0gjWSRIh4eTdzkkagKcECzm" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\chekov.a.a\Desktop\Тест\IdeaProjects\CheckXXL\src\main\resources" />
+      <recent name="C:\Users\chekov.a.a\Desktop\Тест\IdeaProjects\CheckXXL\src\main\java\util" />
+      <recent name="C:\Users\chekov.a.a\Desktop\Тест\IdeaProjects\CheckXXL\src\main\java" />
+      <recent name="C:\Users\chekov.a.a\IdeaProjects\CheckXXL\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\chekov.a.a\Desktop\Тест\IdeaProjects\CheckXXL\src\main\resources" />
+      <recent name="C:\Users\chekov.a.a\Desktop\Тест\IdeaProjects\CheckXXL\src\main\java\db" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.CheckPartOfXXLBonus">
+    <configuration name="CheckPartOfXXLBonus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="spring.CheckPartOfXXLBonus" />
+      <module name="CheckXXL" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="spring.Main" />
+      <module name="CheckXXL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="spring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueryForDevDB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="util.QueryForDevDB" />
+      <module name="CheckXXL" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="spring.Test" />
+      <module name="CheckXXL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="spring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckPartOfXXLBonus" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="CheckXXL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="spring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="spring.CheckPartOfXXLBonus" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CheckPartOfXXLBonus" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Spring Boot.CheckPartOfXXLBonus" />
+        <item itemvalue="Application.QueryForDevDB" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ec99afb-6321-43b1-9f5a-5a391f4ebdf2" name="Default Changelist" comment="" />
+      <created>1565171391107</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565171391107</updated>
+      <workItem from="1565171585814" duration="1736000" />
+      <workItem from="1565181225020" duration="3910000" />
+      <workItem from="1565249651829" duration="24405000" />
+      <workItem from="1565280075422" duration="142000" />
+      <workItem from="1565339341520" duration="14126000" />
+      <workItem from="1565357590713" duration="1779000" />
+      <workItem from="1565367899621" duration="717000" />
+      <workItem from="1565595318034" duration="8476000" />
+      <workItem from="1565610170664" duration="5634000" />
+      <workItem from="1565620419616" duration="693000" />
+      <workItem from="1565700369224" duration="175000" />
+      <workItem from="1565781700824" duration="486000" />
+      <workItem from="1565789883197" duration="33000" />
+      <workItem from="1565793028921" duration="708000" />
+      <workItem from="1565856954484" duration="347000" />
+      <workItem from="1565968437325" duration="398000" />
+      <workItem from="1566209958913" duration="31000" />
+      <workItem from="1566212273246" duration="701000" />
+      <workItem from="1566302173236" duration="641000" />
+      <workItem from="1567152483376" duration="11510000" />
+      <workItem from="1567757486703" duration="18009000" />
+      <workItem from="1568014601759" duration="13950000" />
+      <workItem from="1568102252653" duration="9214000" />
+      <workItem from="1568187648117" duration="4577000" />
+      <workItem from="1568276144894" duration="10421000" />
+      <workItem from="1568793586736" duration="3031000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
